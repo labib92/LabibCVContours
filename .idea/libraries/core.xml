@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/processing-3.5.4/core/library/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/processing-3.5.4/core/library/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/processing-3.5.4/core/library/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/processing-3.5.4/core/library/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/processing-3.5.4/core/library/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/video/library/gst1-java-core-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/video/library/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../processing-3.5.4-windows64 (1)/video/library/video.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
