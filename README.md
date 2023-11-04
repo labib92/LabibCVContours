@@ -1,4 +1,4 @@
-# Algorithm for calculation of the volume of impurities in a liquid fro optical data
+# Algorithm for calculating the volume of impurities in a liquid from optical data
 The work is devoted to the development of methods and their software im-plementation for processing binary images, calculating the total volume of impuri-ties in a liquid. 
 For the calculation, the search for contours in a binary image, the selection of closed areas, the analysis of the hierarchy, and the calculation of the area and volume of 
 the content of impurities are performed. An author's method is proposed for finding the characteristic geometric dimensions of impurity contours and using these dimensions to
