@@ -7,11 +7,11 @@ calculate the volume of impurities.
 Keywords: computer vision, finding contours, contour hierarchy analysis.
 
 # Framework
-I used Proccesing library you can download it from their website using the following link:
+Proccesing library you can download it using the following link:
 https://processing.org/download
 
 # How this Algorithm works ?
-You can read my article to understand how this code works using the following link:
+You can read my article to understand how this code works:
 https://cyberleninka.ru/article/n/algoritm-vychisleniya-obyoma-primesey-v-zhidkosti-po-opticheskim-dannym
 
 
